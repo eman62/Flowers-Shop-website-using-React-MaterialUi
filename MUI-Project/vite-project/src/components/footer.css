@@ -1,0 +1,23 @@
+/* Footer.css */
+.footer-link {
+    margin: 2vw;
+    font-family: Poppins;
+    color: #293341;
+    font-size: 0.9em;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #eda698;
+}
+
+.footer-icon {
+    color: gray;
+    margin: 0 1vw;
+    width: 1.5vw;
+    transition: transform 0.3s ease;
+}
+
+.footer-icon:hover {
+    transform: translateY(-5px);
+}
